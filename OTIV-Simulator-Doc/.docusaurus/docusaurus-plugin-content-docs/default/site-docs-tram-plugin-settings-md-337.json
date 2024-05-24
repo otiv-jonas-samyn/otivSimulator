@@ -1,0 +1,28 @@
+{
+  "id": "TramPlugin/Settings",
+  "title": "Settings",
+  "description": "This document covers the settings topic in Tram Plugin.",
+  "source": "@site/docs/TramPlugin/Settings.md",
+  "sourceDirName": "TramPlugin",
+  "slug": "/TramPlugin/Settings",
+  "permalink": "/otivSimulator/docs/TramPlugin/Settings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/TramPlugin/Settings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "Settings",
+    "title": "Settings",
+    "sidebar_label": "Settings"
+  },
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Pedestrians",
+    "permalink": "/otivSimulator/docs/TrafficPlugin/Pedestrians"
+  },
+  "next": {
+    "title": "Tracks",
+    "permalink": "/otivSimulator/docs/TramPlugin/Tracks"
+  }
+}

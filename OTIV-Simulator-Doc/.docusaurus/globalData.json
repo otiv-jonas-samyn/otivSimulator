@@ -1,0 +1,107 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/otivSimulator/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/otivSimulator/docs",
+          "mainDocId": "Simulator/Settings",
+          "docs": [
+            {
+              "id": "Airsim/Airsim",
+              "path": "/otivSimulator/docs/Airsim/"
+            },
+            {
+              "id": "Airsim/InstanceSegmentation",
+              "path": "/otivSimulator/docs/Airsim/InstanceSegmentation",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Airsim/Python",
+              "path": "/otivSimulator/docs/Airsim/Python",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "CityGeneration/CityGeneration",
+              "path": "/otivSimulator/docs/CityGeneration/"
+            },
+            {
+              "id": "CityGeneration/Houdini",
+              "path": "/otivSimulator/docs/CityGeneration/Houdini",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "CityGeneration/UnrealEngine",
+              "path": "/otivSimulator/docs/CityGeneration/UnrealEngine",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/otivSimulator/docs/intro"
+            },
+            {
+              "id": "Simulator/Output",
+              "path": "/otivSimulator/docs/Simulator/Output",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Simulator/Settings",
+              "path": "/otivSimulator/docs/Simulator/Settings",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Simulator/Simulator",
+              "path": "/otivSimulator/docs/Simulator/"
+            },
+            {
+              "id": "Simulator/Usage",
+              "path": "/otivSimulator/docs/Simulator/Usage",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "TrafficPlugin/Pedestrians",
+              "path": "/otivSimulator/docs/TrafficPlugin/Pedestrians",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "TrafficPlugin/TrafficPlugin",
+              "path": "/otivSimulator/docs/TrafficPlugin/"
+            },
+            {
+              "id": "TrafficPlugin/Vehicles",
+              "path": "/otivSimulator/docs/TrafficPlugin/Vehicles",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "TramPlugin/Settings",
+              "path": "/otivSimulator/docs/TramPlugin/Settings",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "TramPlugin/Tracks",
+              "path": "/otivSimulator/docs/TramPlugin/Tracks",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "TramPlugin/TramPlugin",
+              "path": "/otivSimulator/docs/TramPlugin/"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "documentationSidebar": {
+              "link": {
+                "path": "/otivSimulator/docs/Simulator/Settings",
+                "label": "Simulator/Settings"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

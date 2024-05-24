@@ -1,0 +1,28 @@
+{
+  "id": "Airsim/InstanceSegmentation",
+  "title": "Instance Segmentation",
+  "description": "This document covers the instance segmentation topic in Airsim.",
+  "source": "@site/docs/Airsim/InstanceSegmentation.md",
+  "sourceDirName": "Airsim",
+  "slug": "/Airsim/InstanceSegmentation",
+  "permalink": "/otivSimulator/docs/Airsim/InstanceSegmentation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Airsim/InstanceSegmentation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "InstanceSegmentation",
+    "title": "Instance Segmentation",
+    "sidebar_label": "Instance Segmentation"
+  },
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Output",
+    "permalink": "/otivSimulator/docs/Simulator/Output"
+  },
+  "next": {
+    "title": "Python",
+    "permalink": "/otivSimulator/docs/Airsim/Python"
+  }
+}

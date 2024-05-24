@@ -1,0 +1,28 @@
+{
+  "id": "TramPlugin/Tracks",
+  "title": "Tracks",
+  "description": "This document covers the tracks topic in Tram Plugin.",
+  "source": "@site/docs/TramPlugin/Tracks.md",
+  "sourceDirName": "TramPlugin",
+  "slug": "/TramPlugin/Tracks",
+  "permalink": "/otivSimulator/docs/TramPlugin/Tracks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/TramPlugin/Tracks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "Tracks",
+    "title": "Tracks",
+    "sidebar_label": "Tracks"
+  },
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Settings",
+    "permalink": "/otivSimulator/docs/TramPlugin/Settings"
+  },
+  "next": {
+    "title": "Houdini",
+    "permalink": "/otivSimulator/docs/CityGeneration/Houdini"
+  }
+}

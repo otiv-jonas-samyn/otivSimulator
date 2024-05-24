@@ -1,0 +1,19 @@
+{
+  "id": "TramPlugin/TramPlugin",
+  "title": "Tram Plugin",
+  "description": "This document covers the tracks topic in Tram Plugin.",
+  "source": "@site/docs/TramPlugin/TramPlugin.md",
+  "sourceDirName": "TramPlugin",
+  "slug": "/TramPlugin/",
+  "permalink": "/otivSimulator/docs/TramPlugin/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/TramPlugin/TramPlugin.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "TramPlugin",
+    "title": "Tram Plugin",
+    "sidebar_label": "Tram Plugin"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "CityGeneration/CityGeneration",
+  "title": "City Generation",
+  "description": "This document covers the City Generation topic in City Generation.",
+  "source": "@site/docs/CityGeneration/CityGeneration.md",
+  "sourceDirName": "CityGeneration",
+  "slug": "/CityGeneration/",
+  "permalink": "/otivSimulator/docs/CityGeneration/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CityGeneration/CityGeneration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "CityGeneration",
+    "title": "City Generation",
+    "sidebar_label": "City Generation"
+  }
+}
