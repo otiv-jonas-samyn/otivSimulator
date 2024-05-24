@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkotiv_simulator_doc=self.webpackChunkotiv_simulator_doc||[]).push([[269],{4064:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/otiv-jonas-samyn/otivSimulator/OTIV-Simulator-Doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
