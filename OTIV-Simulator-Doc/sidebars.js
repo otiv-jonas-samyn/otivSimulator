@@ -10,7 +10,6 @@
  */
 
 // @ts-check
-
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   documentationSidebar: [
@@ -22,15 +21,18 @@ const sidebars = {
           type: 'category',
           label: 'Simulator',
           items: [
+            'Simulator/Simulator',
             'Simulator/Settings',
             'Simulator/Usage',
-            'Simulator/Output',
           ],
         },
         {
           type: 'category',
           label: 'Airsim',
           items: [
+            'Airsim/Airsim',
+            'Airsim/Settings',
+            'Airsim/Recording',
             'Airsim/InstanceSegmentation',
             'Airsim/Python',
             // Add more items for Airsim as needed
@@ -58,8 +60,11 @@ const sidebars = {
           type: 'category',
           label: 'City Generation',
           items: [
+            'CityGeneration/CityGeneration',
+            'CityGeneration/OSM',
             'CityGeneration/Houdini',
             'CityGeneration/UnrealEngine',
+            'CityGeneration/Packaging',
           ],
         },
       ],
