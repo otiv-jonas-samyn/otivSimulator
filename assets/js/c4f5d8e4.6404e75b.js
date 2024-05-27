@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkotiv_simulator_doc=self.webpackChunkotiv_simulator_doc||[]).push([[2634],{192:(t,u,o)=>{o.r(u),o.d(u,{default:()=>i});o(6540);var r=o(6347),a=o(4848);function i(){return(0,a.jsx)(r.rd,{to:"/Simulator/Simulator"})}}}]);
