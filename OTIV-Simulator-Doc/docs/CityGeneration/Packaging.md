@@ -43,10 +43,4 @@ If you wait a bit longer, the tram should start driving. If you see this, great 
 
     c. After confirming the location, it will start packaging. Now, you just wait for it to finish.
 
-4. **Copy Necessary Files**: Once it is done packaging, press the CPYBLD buttons in Unreal Engine:
-
-    ![Python Copy Button](../images/Packaging/python_copy_button.png)
-
-    This will copy all extra files necessary for the simulator to run.
-
 That's it for the packaging!

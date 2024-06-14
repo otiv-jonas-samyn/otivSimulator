@@ -42,6 +42,8 @@ const sidebars = {
           type: 'category',
           label: 'Traffic Plugin',
           items: [
+            'TrafficPlugin/TrafficPlugin',
+            'TrafficPlugin/Streets',
             'TrafficPlugin/Vehicles',
             'TrafficPlugin/Pedestrians',
             // Add more items for Traffic Plugin as needed
@@ -64,7 +66,26 @@ const sidebars = {
             'CityGeneration/OSM',
             'CityGeneration/Houdini',
             'CityGeneration/UnrealEngine',
+            'CityGeneration/StreetFixing',
             'CityGeneration/Packaging',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Carla Simulator',
+          items: [
+            'CarlaSimulator/CarlaSimulator',
+            'CarlaSimulator/Comparison',
+            'CarlaSimulator/HowToInstall',
+          ],
+        },
+        
+        {
+          type: 'category',
+          label: 'Softwares',
+          items: [
+            'Softwares/HowToUnrealEngine',
+            'Softwares/HowToHoudini',
           ],
         },
       ],
